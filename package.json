@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "body-parser": "^2.2.0",
+    "book_store": "file:",
     "cookie-parse": "^0.4.0",
     "cookie-parser": "^1.4.7",
     "dotenv": "^16.5.0",
